@@ -1,0 +1,41 @@
+##
+01-O que é um SPA?
+
+Single Page Application-Uma aplicação completa,podendo conter várias páginas,que carrega apenas uma vez
+
+explicação: Apesar do nome ,ela não significa que é apenas uma webpage,mas uma aplicação inteira que carrega apenas uma única vez.
+
+02-Qual o foco da engenharia de software?
+
+Qualidade.
+
+03-Quais são as funções de um sistema operacional ?
+
+Gerenciamento de memória, de processos,de arquivos e do uso do hardware do computador 
+
+04- O que é programação ?
+
+Uma forma de passar instruções para que os computadores façam o que queremos.
+
+05-Por que devemos escrever código limpo?
+
+Porque é a melhor prática para que outras pessoas no futuro entendam e deem manutenção no código.
+
+(sugestão de livro : código limpo )
+
+06-Quais são os três elementos de uma máquina de von neumann?
+
+Entrada,Processamento e Saída 
+
+07- Qual é a linguagem que os computadores entendem no mais baixo nivel ?
+
+Binária
+
+08-O que é um algoritm?
+
+instrução para resolver um problema
+
+09-O que é uma aplicação Web ?
+
+Uma aplicação que roda em serviços de terceiros .
+
